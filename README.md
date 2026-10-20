@@ -153,6 +153,7 @@ Independently developing a full-stack platform for salon management, marketplace
 
 💼 **LinkedIn:** [linkedin.com/in/malik-manujaya-4b4a551a4](https://www.linkedin.com/in/malik-manujaya-4b4a551a4/)
 
+<!--
 ---
 
 ## 📈 GitHub Statistics
@@ -176,3 +177,5 @@ Independently developing a full-stack platform for salon management, marketplace
     alt="GitHub Contribution Streak"
   />
 </p>
+
+-->
