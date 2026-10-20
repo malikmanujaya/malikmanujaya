@@ -1,24 +1,149 @@
-<h1 align="center">Hi 👋, I'm Malik Manujaya</h1>
-<h3 align="center">Undergraduate at UCSC</h3>
+# Hi 👋, I'm Malik Manujaya
 
-<p align="left"> <a href="https://twitter.com/malikmanujaya" target="blank"><img src="https://img.shields.io/twitter/follow/malikmanujaya?logo=twitter&style=for-the-badge" alt="malikmanujaya" /></a> </p>
+### Senior Software Engineer | Full-Stack Developer
 
-- 🌱 I’m currently learning **University of Colombo School of Computing(UG)**
+I’m a **Senior Software Engineer** from Sri Lanka with 4+ years of experience building secure, scalable web applications, enterprise platforms, and developer tools.
 
-- 📫 How to reach me **malikmanujayawijesuriya98@gmail.com**
+I specialize in full-stack development using **React, Next.js, TypeScript, Java, Spring Boot, Node.js, and NestJS**, with experience in cloud deployment, application security, reusable architecture, and CI/CD.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/malikmanujaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malikmanujaya" height="30" width="40" /></a>
-<a href="https://fb.com/malik wijesuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malik wijesuriya" height="30" width="40" /></a>
-<a href="https://instagram.com/malik_manujaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malik_manujaya" height="30" width="40" /></a>
+- 💼 Currently working as a **Senior Software Engineer at Omobio (Pvt) Ltd**
+- 🚀 Independently building **[eBeauty.lk](https://ebeauty.lk)**, a salon SaaS platform and marketplace
+- 🏗️ Experienced in enterprise administration portals, REST APIs, authentication, and authorization
+- 🔐 Interested in secure software development, scalable architecture, and developer productivity
+- ☁️ Working with Docker, Microsoft Azure, Linux, and CI/CD pipelines
+- 🏆 Contributed to the Hemas Healthcare project, recognized with the **NBSQA Gold Award and Best Digitalization Process Enabler Award 2026**
+- 📫 Reach me at **[malikmanujayawijesuriya98@gmail.com](mailto:malikmanujayawijesuriya98@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,c,cpp,html,css" alt="Programming languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui" alt="Frontend technologies" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikmanujaya&show_icons=true&locale=en&layout=compact" alt="malikmanujaya" /></p>
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,express" alt="Backend technologies" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikmanujaya&show_icons=true&locale=en" alt="malikmanujaya" /></p>
+### Databases and Data
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" alt="Databases and data technologies" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikmanujaya&" alt="malikmanujaya" /></p>
+### Cloud, DevOps and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,nginx,linux,git,github,postman,maven" alt="Cloud, DevOps and development tools" />
+</p>
+
+### Security and Observability
+
+- **Authentication & Authorization:** JWT, RBAC, Azure AD, Okta, SSO
+- **Code Quality & Security:** SonarQube, Veracode, linting, pre-commit hooks
+- **Monitoring & Logging:** ELK Stack, Elasticsearch, Logstash, Filebeat, Kibana
+- **Development Practices:** REST APIs, CI/CD, reusable component libraries, secure SDLC
+
+---
+
+## 🚀 Featured Projects
+
+### 💇 [eBeauty.lk](https://ebeauty.lk)
+**Salon SaaS Platform & Marketplace**
+
+Independently developing a full-stack platform for salon management, marketplace discovery, and online bookings.
+
+- Built with Next.js, NestJS, Prisma, and MySQL
+- Subscription-aware role-based access control and feature gating
+- Salon administration, inventory, and customer management
+- Online booking, review moderation, and PayHere payment workflows
+- Scheduled notification delivery and payment reconciliation
+
+### 🏥 Hemas Healthcare Admin Portal
+**Healthcare Administration & Customer Services**
+
+- Implemented 12+ administrative workflows covering appointments, hospitals, departments, campaigns, reporting, loyalty, and customer service
+- Integrated Firebase, Google Maps, and role-based access control
+- Contributed as Lead Front-End and Back-End Developer to the admin portal and shared backend supporting the customer app
+- Contributed to the project recognized with the **NBSQA Gold Award and Best Digitalization Process Enabler Award 2026**
+
+### 🏢 AIA Insurance Staff Admin Portal
+**Enterprise Administration Platform**
+
+- Developed frontend functionality across 10+ administrative modules
+- Worked with React, TypeScript, Material UI, Tailwind CSS, and Node.js
+- Integrated Azure AD and Okta for enterprise identity management
+- Worked on bulk processing, audit logging, campaigns, loyalty, and reporting
+- Addressed application security findings from Veracode assessments and penetration tests
+
+### ⚙️ Internal Developer Platform & Tooling
+**Reusable Components and Backend Generators**
+
+- Developed a shared React component library
+- Built a frontend scaffolding CLI and Spring Boot starter
+- Created a backend service generator with JWT authentication and RBAC
+- Integrated Redis-backed permissions and standardized API responses
+- Improved implementation consistency across administrative applications
+
+### 📊 Roamer Steering Admin Portal & Insight
+**Telecommunications Administration and Observability**
+
+- Developed six core operational modules for subscriber and operator management
+- Built administration features using TypeScript, Material UI, PHP, and MySQL
+- Implemented ELK Stack logging and Kibana dashboards for monitoring and analysis
+- Used Docker for application deployment
+
+### 💳 CheerMe
+**Creator Donation Platform**
+
+- Developed a full-stack platform for creator donations
+- Integrated CyberSource payment processing
+- Implemented secure webhook handling and transaction-state management
+- Automated email and SMS payment receipts
+
+---
+
+## 🏆 Awards & Recognition
+
+- **NBSQA Gold Award — 2026**
+- **Best Digitalization Process Enabler Award — 2026**
+
+*Recognition received for the Hemas Healthcare project, to which I contributed as Lead Front-End and Back-End Developer.*
+
+---
+
+## 🎓 Education & Certifications
+
+- **BSc in Computer Science** — University of Colombo School of Computing (UCSC), 2019–2022
+- **Microsoft Certified: Azure Fundamentals**
+- Diploma in Comprehensive Master Java Developer — Institute of Java and Software Engineering (IJSE)
+- Trainee Full-Stack Developer Program — University of Moratuwa
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/malikmanujaya" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/malik_manujaya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:malikmanujayawijesuriya98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malikmanujaya&show_icons=true&theme=transparent&hide_border
