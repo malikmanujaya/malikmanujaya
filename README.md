@@ -130,20 +130,49 @@ Independently developing a full-stack platform for salon management, marketplace
 ## 🤝 Connect with Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/malik-manujaya-4b4a551a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:malikmanujayawijesuriya98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="tel:+94719735645">
+    <img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile" />
+  </a>
   <a href="https://twitter.com/malikmanujaya" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://instagram.com/malik_manujaya" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:malikmanujayawijesuriya98@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
+
+📧 **Email:** [malikmanujayawijesuriya98@gmail.com](mailto:malikmanujayawijesuriya98@gmail.com)
+
+📱 **Mobile:** [+94 71 973 5645](tel:+94719735645)
+
+💼 **LinkedIn:** [linkedin.com/in/malik-manujaya-4b4a551a4](https://www.linkedin.com/in/malik-manujaya-4b4a551a4/)
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikmanujaya&show_icons=true&theme=transparent&hide_border
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=malikmanujaya&show_icons=true&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmanujaya&layout=compact&hide_border=true&cache_seconds=86400"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=malikmanujaya&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
